@@ -32,3 +32,9 @@ h1 {
   padding: 20px 20px;
   text-align: center;
 }
+li {
+  display: inline;
+  white-space: pre-wrap;
+  padding: 10px;
+  float: right;
+}
